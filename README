@@ -1,0 +1,14 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=37
+
+I know that this isn't a macro and I haven't used it in a while but I always have people emailing me about it so I figured I'd try putting it up here.
+The header file has instructions for adding it to the vim project.  Anyone is more than welcome to pick/clean this up.  Usage is
+straight forward and there is latent ( read: not working ) support for setting breakpoints from vim.  
+I wrote this a while ago so it's not a stellar example of using ATL etc.
+
+Usage:  :vc <cmd>
+where <cmd> is any exported command in Visual Studio.  See the keybindings to see all of the different commands.
+
+It's also available at my web page as well as other vim stuff
+http://www.nh.ultranet.com/~bsturk
+
+
